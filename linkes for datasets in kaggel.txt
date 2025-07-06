@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset:(photo lung link in kaggel)
+https://www.kaggle.com/datasets/nasrulhakim86/coughvid-wav:(audios link in kaggel)
