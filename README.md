@@ -148,4 +148,4 @@ CoughVid dataset
 Streamlit & TensorFlow communities
 
 🥇 Arab AI Olympiad 2025 for inspiration
-
+```
