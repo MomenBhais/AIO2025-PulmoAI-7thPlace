@@ -133,7 +133,6 @@ Image Detection	Cough Audio Detection
 👥 Team & Contact
 Momen Mohammed Bhais — LinkedIn | GitHub
 
-Arwa Hajahjah — Email
 
 📧 For inquiries: momenbhais@outlook.com
 
@@ -148,4 +147,4 @@ CoughVid dataset
 Streamlit & TensorFlow communities
 
 🥇 Arab AI Olympiad 2025 for inspiration
-```
+
